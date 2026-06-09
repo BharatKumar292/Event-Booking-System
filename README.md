@@ -87,6 +87,7 @@ Event_Dashboard_GUI.java
 Name: Bharat Kumar
 Project Type: Database Management System (DBMS) Project
 Language: Java
+
 ⭐ Future Improvements
 🔥 QR Code Ticket System
 🔥 Online Payment Integration
@@ -101,6 +102,6 @@ Database Management System concepts
 JDBC connectivity
 Object-Oriented Programming principles
 Real-world event booking system design
-🏁 Conclusion
 
+🏁 Conclusion
 The Event Booking System successfully automates the process of event management and booking while reducing manual errors and improving efficiency.
