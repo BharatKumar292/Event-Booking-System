@@ -73,7 +73,7 @@ Run:
 Event_Dashboard_GUI.java
 📸 Screenshots
 🏠 View Events
-![Uploading view_events.png.png…]()
+<img width="1176" height="731" alt="view_events png" src="https://github.com/user-attachments/assets/bc36be13-e26d-4db2-8a63-f53b6380bff6" />
 
 
 🎟 Booking Screen
